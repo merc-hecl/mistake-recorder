@@ -1,6 +1,6 @@
 ---
 name: mistake-recorder
-description: Records AI Agent mistakes and corrections to mistake-notebook.md after user acceptance. Prompts AI to check past mistakes before development. Triggers when: (1) User corrects AI's implementation and accepts; (2) Task completed after error correction.
+description: Records AI Agent mistakes and corrections to mistake-notebook.md after user acceptance. Prompts AI to check past mistakes before development. Triggers when (1) User corrects AI's implementation and accepts; (2) Task completed after error correction.
 ---
 
 # Mistake Recorder
