@@ -47,7 +47,7 @@ For complex or multiple mistakes. Invocation: user explicitly requests "record t
 
 1. Summarize errors from context
 2. Ask user confirmation: "Record? [Yes/Skip/Edit]"
-3. Append to mistake-notebook.md
+3. Append to .mistake-notebook.md
 
 ## File Format
 
@@ -80,7 +80,7 @@ Recording AI Agent development mistakes and correction experiences.
 **Quick Record:**
 ```
 User: quick record this parameter mistake
-AI: Records single error to mistake-notebook.md ✓
+AI: Records single error to .mistake-notebook.md ✓
 ```
 
 **Standard Record:**
